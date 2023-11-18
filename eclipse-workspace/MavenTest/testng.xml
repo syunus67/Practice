@@ -1,0 +1,7 @@
+<suite name="MyTestSuite">
+    <test name="ParallelTests">
+        <classes>
+            <class name="/MavenTest/src/test/java/script/LoginTest.java.java" />
+        </classes>
+    </test>
+</suite>
